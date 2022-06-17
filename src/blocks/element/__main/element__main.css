@@ -1,0 +1,26 @@
+.element__main {
+  position: relative;
+  cursor: pointer;
+  background-color: #1698D9;
+  width: 320px;
+  height: 480px;
+  clip-path: polygon(0 44px, 44px 0, 100% 0, 100% 100%, 0% 100%);
+  border-radius: 12px;
+  margin-bottom: 14px;
+}
+
+.element__main::after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  top: 4px;
+  left: 4px;
+  background-color: #FFFFFF;
+  background-image: url("../../../images/cat.png");
+  width: 312px;
+  height: 472px;
+  border-radius: 8px;
+  clip-path: polygon(0 42px, 42px 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+

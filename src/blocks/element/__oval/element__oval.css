@@ -1,0 +1,12 @@
+.element__oval {
+  display: flex;
+  align-self: end;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  height: 80px;
+  background-color: #1698D9;
+  border-radius: 50%;
+  margin: 0 16px 16px 0;
+}
