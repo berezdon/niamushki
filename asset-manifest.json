@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/niamushki/static/css/main.c8f324fe.chunk.css",
+    "main.js": "/niamushki/static/js/main.7b85d6d3.chunk.js",
+    "main.js.map": "/niamushki/static/js/main.7b85d6d3.chunk.js.map",
+    "runtime-main.js": "/niamushki/static/js/runtime-main.5dac65c8.js",
+    "runtime-main.js.map": "/niamushki/static/js/runtime-main.5dac65c8.js.map",
+    "static/js/2.0cfeac25.chunk.js": "/niamushki/static/js/2.0cfeac25.chunk.js",
+    "static/js/2.0cfeac25.chunk.js.map": "/niamushki/static/js/2.0cfeac25.chunk.js.map",
+    "static/js/3.929e304c.chunk.js": "/niamushki/static/js/3.929e304c.chunk.js",
+    "static/js/3.929e304c.chunk.js.map": "/niamushki/static/js/3.929e304c.chunk.js.map",
+    "index.html": "/niamushki/index.html",
+    "static/css/main.c8f324fe.chunk.css.map": "/niamushki/static/css/main.c8f324fe.chunk.css.map",
+    "static/js/2.0cfeac25.chunk.js.LICENSE.txt": "/niamushki/static/js/2.0cfeac25.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/niamushki/static/media/pattern.827cf08e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dac65c8.js",
+    "static/js/2.0cfeac25.chunk.js",
+    "static/css/main.c8f324fe.chunk.css",
+    "static/js/main.7b85d6d3.chunk.js"
+  ]
+}
